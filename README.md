@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Shaarav
 
-<!--
-**shaaravbaruah-bit/shaaravbaruah-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Developer  
+🛠 I build developer tools and utility applications  
+🚀 Currently learning GUI development and networking  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Java
+- Java Swing
+- Git
+- GitHub
+
+---
+
+## 📂 My Projects
+
+🔐 **Dev Toolbox GUI**  
+A multi-utility desktop application built using Java Swing.
+
+🌐 **Port Scanner CLI**  
+A Java command line tool to scan open ports.
+
+📊 **Log Analyzer CLI**  
+Utility to analyze log files and detect patterns.
+
+🖥 **System Monitor CLI**  
+Command line tool to monitor system resources.
+
+---
+
+## 📈 Currently Learning
+- Advanced Java
+- GUI Applications
+- Networking tools
+
+---
+
+⭐ Always building and improving.
