@@ -28,7 +28,7 @@ Utility to analyze log files and detect patterns.
 🖥 **System Monitor CLI**  
 Command line tool to monitor system resources.
 
-🔐 **CarrierControl-Django
+🔐 **CarrierControl-Django**
 It is a job portal which helps admin to either shortlist or rejct the application. A surfing page where student can apply for jobs.
 
 ---
